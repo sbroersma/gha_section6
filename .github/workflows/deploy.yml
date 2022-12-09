@@ -11,7 +11,7 @@ jobs:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.bjr3w1q.mongodb.net
       MONGODB_USERNAME: udemy
-      MONGODB_PASSWORD: @cuzM$KTz5OE
+      MONGODB_PASSWORD: f29pWjom5iisY4ac
       PORT: 8080
     environment: testing
     runs-on: ubuntu-latest
